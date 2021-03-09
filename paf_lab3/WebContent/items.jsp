@@ -22,6 +22,7 @@
 <html>
 	<head>
 	<meta charset="ISO-8859-1">
+	<link href="Views/bootstrap.min.css" rel="stylesheet" media="all">
 	<title>Items Management</title>
 	</head>
 	<body>
